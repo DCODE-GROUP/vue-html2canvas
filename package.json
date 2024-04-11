@@ -1,5 +1,5 @@
 {
-  "name": "vue-html2canvas",
+  "name": "dcode-vue-html2canvas",
   "version": "1.0.1",
   "description": "Vue mixin for Html2Canvas",
   "main": "index.js",
